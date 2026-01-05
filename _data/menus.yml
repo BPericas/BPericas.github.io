@@ -6,6 +6,10 @@
   url: /archive/
   external: false
 
+- title: CV
+  url: /cv/
+  external: false
+
 
 # Example:
 # - title: github
