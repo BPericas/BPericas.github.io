@@ -6,9 +6,7 @@ permalink: /cv/
 ## Education
 
 **PhD in Developmental Speech Neuroscience**  
-University College London, United Kingdom  
-*Oct 2021 – July 2025*  
-Advisor: Prof. Paul Iverson  
+University College London, United Kingdom  *Oct 2021 – July 2025*   
 - **Thesis:**  
   *Tracking Phonetic-Learning Abilities Across the Lifespan:  
   Electrophysiological and Behavioral Perspectives*
@@ -16,8 +14,7 @@ Advisor: Prof. Paul Iverson
 ---
 
 **MRes Speech, Language and Cognition**  
-University College London, United Kingdom  
-*2020 – 2021*  
+University College London, United Kingdom  *2020 – 2021*  
 Distinction  
 - **Dissertation:**  
   *Exploring the effects of gamification of phonetic training in bilingual children*
@@ -25,9 +22,62 @@ Distinction
 ---
 
 **BSc Psychology and Language Sciences**  
-University College London, United Kingdom  
-*2017 – 2020*  
+University College London, United Kingdom  *2017 – 2020*  
 First Class Honours  
 - **Dissertation:**  
-  *Neural Entrainment to the Amplitude Envelope of Infant-Directed Speech in Preverbal Infants:  
-  Effects of Listening Condition and Language Experience*
+  *Neural Entrainment to the Amplitude Envelope of Infant-Directed Speech in Preverbal Infants: Effects of Listening Condition and Language Experience*
+
+---
+
+## Academic Positions 
+
+**Postdoctoral Researcher**
+University of Lisbon, Portugal *Oct 2025 - Apr 2026*
+**Project:** *Exploring Effects of Gamified Phonetic Training with EEG.*
+
+---
+
+## Publications
+
+Pericas Herrero, B., and Iverson, P. (2025). Memory-card English vowel training for second-language learners: Effects of age and bilingualism for Spanish-Catalan-speaking children. The Journal of the Acoustical Society of America, 157(6), 4640–4648. https://doi.org/10.1121/10.0036885
+
+---
+Iverson, P., Pericas Herrero, B., and Katashima, A. (2023). Memory-card vowel training for child and adult second-language learners: A first report. JASA Express Letters, 3(1), 015202–015202. https://doi.org/10.1121/10.0016836.
+
+---
+
+## Awards and Studentships
+
+**UBEL Doctoral Training Studentship** *2020-2025* 
+Economic and Social Research Council, UKRI
+Tuition Fees + 20.000GBP/year 
+
+**International Research Visit** *2023*
+Economic and Social Research Council, UKRI
+2000GBP 
+
+**Master's Student Achievement Prize** *2021* 
+University College London 
+
+**Undergraduate Student Achievement Prize** *2020*
+University College London
+
+---
+
+## Conference Talks
+
+April 2025. **Incorporating more phonetic contrasts in bilingualism and language learning research: Can MMN be made more efficient?** Presented at the New Sounds 2025 Conference, Toronto, Canada.
+
+---
+
+September 2024. **Incorporating more phonetic contrasts in bilingualism and language learning research: Can MMN be made more efficient?** Presented at the 10th Mismatch Negativity Conference, Salamanca, Spain.
+
+---
+
+April 2022. **Memory-card phonetic training of English vowels for bilingual children.** Presented at the New Sounds 2022 Conference, Barcelona, Spain.
+
+---
+
+
+
+
