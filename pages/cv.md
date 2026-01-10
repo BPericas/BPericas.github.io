@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Education
 
-**PhD in Developmental Speech Neuroscience**,
+**PhD in Developmental Speech Neuroscience**
 <span style="float:right;">2021 – 2025</span>    
 *University College London, United Kingdom*  
  <div style="clear:both;"></div>  
@@ -14,7 +14,7 @@ permalink: /cv/
 
 ---
 
-**MRes Speech, Language and Cognition**,    
+**MRes Speech, Language and Cognition**
 <span style="float:right;">2020 – 2021</span>  
 *University College London, United Kingdom*
 <div style="clear:both;"></div>  
