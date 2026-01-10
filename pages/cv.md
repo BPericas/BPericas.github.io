@@ -5,11 +5,12 @@ permalink: /cv/
 ---
 ## Education
 
-**PhD in Developmental Speech Neuroscience**, *University College London, United Kingdom*  
-<span style="float:right;">Oct 2021 – July 2025</span>  
-<div style="clear:both;"></div>
+**PhD in Developmental Speech Neuroscience**,
+<span style="float:right;">2021 – 2025</span>  
+-*University College London, United Kingdom*  
+ <div style="clear:both;"></div>
   
--**Thesis:**  *Tracking Phonetic-Learning Abilities Across the Lifespan:  
+**Thesis:**  *Tracking Phonetic-Learning Abilities Across the Lifespan:  
   Electrophysiological and Behavioral Perspectives*
 
 ---
@@ -32,9 +33,11 @@ permalink: /cv/
 
 ## Academic Positions 
 
-**Postdoctoral Researcher**, *University of Lisbon, Portugal*
+**Postdoctoral Researcher**, 
 <span style= "float:right;"> Oct 2025 - Apr 2026</span>
-**Project:** *Exploring Effects of Gamified Phonetic Training with EEG.*
+<div style="clear:both;"></div>
+-*University of Lisbon, Portugal*
+-**Project:** *Exploring Effects of Gamified Phonetic Training with EEG.*
 
 ---
 
