@@ -18,7 +18,7 @@ permalink: /cv/
 <span style="float:right;">2020 – 2021</span>  
 *University College London, United Kingdom*
 <div style="clear:both;"></div>  
-* Distinction  
+* Distinction   
 **Dissertation:** Exploring the effects of gamification of phonetic training in bilingual children
 
 ---
