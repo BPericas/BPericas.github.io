@@ -7,6 +7,7 @@ permalink: /cv/
 
 **PhD in Developmental Speech Neuroscience**, *University College London, United Kingdom*  
 <span style="float:right;">Oct 2021 – July 2025</span>  
+<div style="clear:both;"></div>
   
 -**Thesis:**  *Tracking Phonetic-Learning Abilities Across the Lifespan:  
   Electrophysiological and Behavioral Perspectives*
@@ -15,14 +16,16 @@ permalink: /cv/
 
 **MRes Speech, Language and Cognition**, *University College London, United Kingdom*   
 <span style="float:right;">2020 – 2021</span>  
--Distinction  
+<div style="clear:both;"></div>
+-**Distinction**  
 -**Dissertation:** *Exploring the effects of gamification of phonetic training in bilingual children*
 
 ---
 
 **BSc Psychology and Language Sciences**, *University College London, United Kingdom* 
-<span style="float:right;">2017 – July 2020</span>   
--First Class Honours  
+<span style="float:right;">2017 – July 2020</span>  
+<div style="clear:both;"></div> 
+-**First Class Honours**  
 -**Dissertation:** *Neural Entrainment to the Amplitude Envelope of Infant-Directed Speech in Preverbal Infants: Effects of Listening Condition and Language Experience*
 
 ---
@@ -49,20 +52,24 @@ Iverson, P., Pericas Herrero, B., and Katashima, A. (2023). Memory-card vowel tr
 **UBEL Doctoral Training Studentship**
 <span style ="float:right;"> 2020-2025 </span> 
 -Economic and Social Research Council, UKRI
+<div style="clear:both;"></div>
 -Tuition Fees + 20.000GBP/year 
 
 **International Research Visit** 
 <span style = "float:right;"> 2023 </span>
 -Economic and Social Research Council, UKRI
+<div style="clear:both;"></div>
 -2000GBP 
 
 **Master's Student Achievement Prize** 
 <span style = "float:right;"> 2021 </span> 
 -University College London 
+<div style="clear:both;"></div>
 
 **Undergraduate Student Achievement Prize** 
 <span style = "float:right;"> 2020 </span>
 -University College London
+<div style="clear:both;"></div>
 
 ---
 
