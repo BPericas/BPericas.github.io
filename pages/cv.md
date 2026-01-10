@@ -6,20 +6,20 @@ permalink: /cv/
 ## Education
 
 **PhD in Developmental Speech Neuroscience**,
-<span style="float:right;">2021 – 2025</span>  
--*University College London, United Kingdom*  
- <div style="clear:both;"></div>
-  
+<span style="float:right;">2021 – 2025</span>    
+*University College London, United Kingdom*  
+ <div style="clear:both;"></div>  
 **Thesis:**  *Tracking Phonetic-Learning Abilities Across the Lifespan:  
   Electrophysiological and Behavioral Perspectives*
 
 ---
 
-**MRes Speech, Language and Cognition**, *University College London, United Kingdom*   
+**MRes Speech, Language and Cognition**,    
 <span style="float:right;">2020 – 2021</span>  
-<div style="clear:both;"></div>
--**Distinction**  
--**Dissertation:** *Exploring the effects of gamification of phonetic training in bilingual children*
+*University College London, United Kingdom*
+<div style="clear:both;"></div>  
+**Distinction**    
+**Dissertation:** *Exploring the effects of gamification of phonetic training in bilingual children*
 
 ---
 
