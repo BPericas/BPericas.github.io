@@ -14,7 +14,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Begoña Pericas # author name
   bio: >- # tell to the world
-     I'm an academic researcher in speech processing and language learning, with experience conducting infant and adult EEG studies and child phonetic training. In this website, I will share my CV and research-related blog posts. See my code for EEG data analysis at <a href="https://github.com/BPericas" target="_blank" rel="noopener">@github</a>.
+     I'm an academic researcher in speech processing and language learning, with experience conducting infant and adult EEG studies and child phonetic training. See my code for EEG data analysis at <a href="https://github.com/BPericas" target="_blank" rel="noopener">@github</a>.
   username: username # general username
   github: BPericas # github username
   linkedIn: Begoña Pericas Herrero # twitter username
