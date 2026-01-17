@@ -35,7 +35,7 @@ Dissertation: Neural Entrainment to the Amplitude Envelope of Infant-Directed Sp
 <span style= "float:right;"> Oct 2025 - Apr 2026</span>  
 *University of Lisbon, Portugal*
 <div style="clear:both;"></div>   
-*Project: Exploring Effects of Gamified Phonetic Training with EEG.*
+Project: Exploring Effects of Gamified Phonetic Training with EEG.
 
 ---
 
