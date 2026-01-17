@@ -58,8 +58,7 @@ Tuition Fees + 20.000GBP/year
 
 **International Research Visit** 
 <span style = "float:right;"> 2023 </span>  
-Economic and Social Research Council, United Kingdom Research Innovation
-<div style="clear:both;"></div>
+Economic and Social Research Council, United Kingdom Research Innovation  
 2000GBP 
 
 **Master's Student Achievement Prize** 
