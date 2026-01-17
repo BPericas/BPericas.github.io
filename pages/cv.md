@@ -9,8 +9,7 @@ permalink: /cv/
 <span style="float:right;">2021 – 2025</span>    
 *University College London, United Kingdom*  
  <div style="clear:both;"></div>  
-*Thesis:  Tracking Phonetic-Learning Abilities Across the Lifespan:  
-  Electrophysiological and Behavioral Perspectives.*
+Thesis:  Tracking Phonetic-Learning Abilities Across the Lifespan: Electrophysiological and Behavioral Perspectives.
 
 ---
 
@@ -18,7 +17,7 @@ permalink: /cv/
 <span style="float:right;">2020 – 2021</span>  
 *University College London, United Kingdom*
 <div style="clear:both;"></div>  
-*Dissertation: Exploring the effects of gamification of phonetic training in bilingual children.*
+Dissertation: Exploring the effects of gamification of phonetic training in bilingual children.
 
 ---
 
@@ -26,7 +25,7 @@ permalink: /cv/
 <span style="float:right;">2017 – July 2020</span>  
 *University College London, United Kingdom*   
 <div style="clear:both;"></div>    
-*Dissertation: Neural Entrainment to the Amplitude Envelope of Infant-Directed Speech in Preverbal Infants: Effects of Listening Condition and Language Experience.*
+Dissertation: Neural Entrainment to the Amplitude Envelope of Infant-Directed Speech in Preverbal Infants: Effects of Listening Condition and Language Experience.
 
 ---
 
