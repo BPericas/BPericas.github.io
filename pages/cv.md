@@ -10,7 +10,7 @@ permalink: /cv/
 *University College London, United Kingdom*  
  <div style="clear:both;"></div>  
 *Thesis:  Tracking Phonetic-Learning Abilities Across the Lifespan:  
-  Electrophysiological and Behavioral Perspectives*
+  Electrophysiological and Behavioral Perspectives.*
 
 ---
 
@@ -18,7 +18,7 @@ permalink: /cv/
 <span style="float:right;">2020 – 2021</span>  
 *University College London, United Kingdom*
 <div style="clear:both;"></div>  
-*Dissertation: Exploring the effects of gamification of phonetic training in bilingual children*
+*Dissertation: Exploring the effects of gamification of phonetic training in bilingual children.*
 
 ---
 
@@ -26,7 +26,7 @@ permalink: /cv/
 <span style="float:right;">2017 – July 2020</span>  
 *University College London, United Kingdom*   
 <div style="clear:both;"></div>    
-*Dissertation: Neural Entrainment to the Amplitude Envelope of Infant-Directed Speech in Preverbal Infants: Effects of Listening Condition and Language Experience*
+*Dissertation: Neural Entrainment to the Amplitude Envelope of Infant-Directed Speech in Preverbal Infants: Effects of Listening Condition and Language Experience.*
 
 ---
 
@@ -42,7 +42,7 @@ permalink: /cv/
 
 ## Publications
 
-Pericas Herrero, B., and Iverson, P. (2025). Memory-card English vowel training for second-language learners: Effects of age and bilingualism for Spanish-Catalan-speaking children. The Journal of the Acoustical Society of America, 157(6), 4640–4648. https://doi.org/10.1121/10.0036885
+Pericas Herrero, B., and Iverson, P. (2025). Memory-card English vowel training for second-language learners: Effects of age and bilingualism for Spanish-Catalan-speaking children. The Journal of the Acoustical Society of America, 157(6), 4640–4648. https://doi.org/10.1121/10.0036885.
 
 ---
 Iverson, P., Pericas Herrero, B., and Katashima, A. (2023). Memory-card vowel training for child and adult second-language learners: A first report. JASA Express Letters, 3(1), 015202–015202. https://doi.org/10.1121/10.0016836.
