@@ -12,13 +12,14 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Begoña Pericas # author name
+  name: Begoña Pericas Herrero # author name
   bio: >- # tell to the world
-     I'm an academic researcher in speech processing and language learning, with experience conducting infant and adult EEG studies and child phonetic training. See my code for EEG data analysis at <a href="https://github.com/BPericas" target="_blank" rel="noopener">@github</a>.
+     I'm a postdoctoral research fellow at the Department of Speech, Hearing and Phonetic Sciences at University College London. I'm interested in early speech and language learning, as well as in second language phonetic learning, and I have experience conducting infant and adult EEG studies and child phonetic training. See my code for EEG data analysis at <a href="https://github.com/BPericas" target="_blank" rel="noopener">@github</a>.
   username: username # general username
   github: BPericas # github username
   linkedIn: Begoña Pericas Herrero # twitter username
   email: begona.herrero.17@ucl.ac.uk # email adress
+  researchgate: Begona-Pericas-Herrero # ResearchGate profile name (verify this matches your actual profile URL)
   avatar: /assets/img/avatar.jpg # change with your own avatar
   avatar_width: 3000
 

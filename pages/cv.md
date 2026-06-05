@@ -106,6 +106,13 @@ Supported the introduction of infant EEG testing in the baby laboratory: helped 
 
 ## Teaching Experience
 
+**Using EEG to Study Early Phonetic and Phonological Development**
+<span style="float:right;"> 2023, 2024, 2025</span>  
+*Guest Lecturer, University College London*  
+*Module: Development of Communication and Cognition*
+<div style="clear:both;"></div>
+
+---
 **EEG for Speech and Language Research**
 <span style="float:right;"> 2024</span>  
 *Teaching Assistant, University College London*
@@ -120,13 +127,7 @@ Supported the introduction of infant EEG testing in the baby laboratory: helped 
 
 ---
 
-**Using EEG to Study Early Phonetic and Phonological Development**
-<span style="float:right;"> 2023, 2024, 2025</span>  
-*Guest Lecturer, University College London*  
-*Module: Development of Communication and Cognition*
-<div style="clear:both;"></div>
 
----
 
 
 

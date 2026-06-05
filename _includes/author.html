@@ -6,4 +6,19 @@
   />
   <h2 class="author-name">{{ site.author.name }}</h2>
   <p class="author-bio">{{ site.author.bio }}</p>
+  <div class="author-links">
+    {% if site.author.email %}
+    <a href="mailto:{{ site.author.email }}" class="author-link" title="Email" aria-label="Email">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+        <polyline points="22,6 12,13 2,6"/>
+      </svg>
+    </a>
+    {% endif %}
+    {% if site.author.researchgate %}
+    <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" class="author-link" title="ResearchGate" aria-label="ResearchGate" target="_blank" rel="noopener">
+      <i class="ai ai-researchgate" style="font-size: 1.45rem;"></i>
+    </a>
+    {% endif %}
+  </div>
 </div>

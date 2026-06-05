@@ -2,9 +2,10 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
-  external: false
+# Uncomment below to show the archive link in the navbar once you have blog posts
+# - title: archive
+#   url: /archive/
+#   external: false
 
 - title: CV
   url: /cv/

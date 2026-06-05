@@ -3,7 +3,19 @@ layout: default
 home: true
 ---
 
+<h3 class="posts-item-note" aria-label="Publications">Publications</h3>
+<ul class="publications-list">
+{%- for pub in site.data.publications -%}
+  <li class="publication-item">
+    <a href="{{ pub.url }}" target="_blank" rel="noopener" class="publication-title">{{ pub.title }}</a>
+    <span class="publication-meta">{{ pub.authors }} ({{ pub.year }}). <em>{{ pub.journal }}</em>, {{ pub.details }}. <a href="{{ pub.doi }}" target="_blank" rel="noopener">{{ pub.doi }}</a></span>
+  </li>
+{%- endfor -%}
+</ul>
+
+{%- if site.posts.size > 0 -%}
 <h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
+{%- endif -%}
 {%- for post in site.posts limit: site.number_of_posts -%}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
