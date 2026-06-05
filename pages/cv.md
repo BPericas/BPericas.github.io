@@ -31,11 +31,19 @@ Dissertation: Neural Entrainment to the Amplitude Envelope of Infant-Directed Sp
 
 ## Academic Positions 
 
-**Postdoctoral Researcher**, 
-<span style= "float:right;"> Oct 2025 - Apr 2026</span>  
+**Research Fellow**,
+<span style="float:right;"> Apr 2026 – present</span>  
+*University College London, United Kingdom*
+<div style="clear:both;"></div>
+Applying EEG and day-long recording methodologies to study speech and language processing in the brain across childhood and adulthood. PI: Prof. Paul Iverson.
+
+---
+
+**Postdoctoral Researcher**,
+<span style="float:right;"> Oct 2025 – Apr 2026</span>  
 *University of Lisbon, Portugal*
-<div style="clear:both;"></div>   
-Project: Exploring Effects of Gamified Phonetic Training with EEG.
+<div style="clear:both;"></div>
+Designed and conducted an EEG experiment to test vowel perception at pre- and post-training in a Gamified Phonetic Training project. PI: Dr. Vita Kogan.
 
 ---
 
@@ -83,6 +91,40 @@ September 2024. *Incorporating more phonetic contrasts in bilingualism and langu
 ---
 
 April 2022. *Memory-card phonetic training of English vowels for bilingual children.* Presented at the New Sounds 2022 Conference, Barcelona, Spain.
+
+---
+
+## Research Visits
+
+**International Research Center for Neurointelligence (IRCN)**
+<span style="float:right;"> Sep – Dec 2023</span>  
+*The University of Tokyo, Japan*
+<div style="clear:both;"></div>
+Supported the introduction of infant EEG testing in the baby laboratory: helped set up the experimental protocol and conducted piloting sessions using EEG.
+
+---
+
+## Teaching Experience
+
+**EEG for Speech and Language Research**
+<span style="float:right;"> 2024</span>  
+*Teaching Assistant, University College London*
+<div style="clear:both;"></div>
+
+---
+
+**Interaction Design**
+<span style="float:right;"> 2023</span>  
+*Teaching Assistant, University College London*
+<div style="clear:both;"></div>
+
+---
+
+**Using EEG to Study Early Phonetic and Phonological Development**
+<span style="float:right;"> 2023, 2024, 2025</span>  
+*Guest Lecturer, University College London*  
+*Module: Development of Communication and Cognition*
+<div style="clear:both;"></div>
 
 ---
 
