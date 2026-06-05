@@ -182,32 +182,32 @@
 // Author
 .author {
   margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
+  margin-bottom: 1.8rem;
   text-align: center;
 
   @include media-query($on-mobile) {
-    margin-bottom: 3em;
+    margin-bottom: 1.5em;
   }
 
-  .author-avatar {
+  .author-avatar-circle {
     width: 160px;
     height: 160px;
-    object-fit: contain;
+    border-radius: 50%;
     overflow: hidden;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
-    border-radius: 50%;
-    padding: 22px;
-    box-sizing: border-box;
-     user-select: none;
-    background-color: $black;
+    background-color: #fff;
+    user-select: none;
     -ms-user-select: none;
     -webkit-user-select: none;
     -webkit-animation: 0.5s ease-in forwards fadein;
     animation: 0.5s ease-in forwards fadein;
-    opacity: 1;
-    background-color: #fff;
+  }
+
+  .author-avatar {
+    width: 98px;
+    height: auto;
   }
 
 
@@ -252,6 +252,11 @@
   font-weight: 700;
   margin-bottom: 5px;
   color: $black;
+}
+
+.publications-heading {
+  font-size: 1.25rem;
+  margin-bottom: 0.6rem;
 }
 
 // Publications list
