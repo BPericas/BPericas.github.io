@@ -18,19 +18,19 @@ It also important to note that the data was recorded using a NeuroScan 32-channe
 
 **List of links:**
 
-MATLAB R2024b: https://www.mathworks.com/products/matlab.html
+- [MATLAB R2024b](https://www.mathworks.com/products/matlab.html)
 
-EEGLAB: https://eeglab.org
+- [EEGLAB](https://eeglab.org)
 
-FieldTrip: https://www.fieldtriptoolbox.org/download/
+- [FieldTrip](https://www.fieldtriptoolbox.org/download/)
 
-GEDAI: https://github.com/NeuroEngUAB/GEDAI
+- [GEDAI](https://github.com/NeuroEngUAB/GEDAI)
 
-NoiseTools: http://audition.ens.fr/adc/NoiseTools/
+- [NoiseTools](http://audition.ens.fr/adc/NoiseTools/)
 
-CURRY import plugin for EEGLAB (Matthew Pontifex): https://github.com/mattpontifex/loadcurry
+- [CURRY Import Plugin for EEGLAB (Matthew Pontifex)](https://github.com/mattpontifex/loadcurry)
 
-ICLabel plugin: Available through the EEGLAB Extension Manager or https://github.com/sccn/ICLabel
+- [ICLabel](https://github.com/sccn/ICLabel) (also available through the EEGLAB Extension Manager)
 
 **Preprocessing the EEG data**
 
