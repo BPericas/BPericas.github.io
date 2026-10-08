@@ -5,6 +5,9 @@ $base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
+.publications-heading {
+  margin-top: 3rem;
+}
 
 // Font weight
 // $light-weight: 300; // uncomment if necessary
@@ -61,3 +64,12 @@ $on-widescreen: 1152px;
 // Import sass files
 @import "klise/fonts", "klise/base", "klise/layout", "klise/post",
   "klise/miscellaneous", "klise/syntax", "klise/dark";
+
+.home-section {
+  margin-bottom: 2.5rem; /* Adds spacing between sections */
+}
+
+.home-section h2 {
+  font-size: 1.5rem; /* Ensures consistent title size */
+  margin-bottom: 1rem;
+}

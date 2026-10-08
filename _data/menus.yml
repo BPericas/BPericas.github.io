@@ -2,8 +2,7 @@
   url: /
   external: false
 
-# Uncomment below to show the archive link in the navbar once you have blog posts
-# - title: archive
+- title: blog
 #   url: /archive/
 #   external: false
 
