@@ -1,12 +1,14 @@
 # Site settings
 title: Begoña Pericàs Herrero # site title
 description: >- # site description
-  I'm a postdoctoral research fellow at the Department of Human CommunicationSciences at University College London. 
-  I'm interested in early speech and language learning, as well as in 
-  second language speech learning. In my research, I use a combination of 
-  EEG experiments and behavioural tasks, such as phonetic training games 
-  to study speech learning in infants, children and adults. 
-  See my code for EEG data analysis at <a href="https://github.com/BPericas" target="_blank" rel="noopener">@github</a>.
+  I am a neurocognitive speech and language researcher interested in how bilingual 
+  children develop phonetic and phonological knowledge across their two languages 
+  and how adults learn speech sounds in a second language. In my research, I use 
+  electrophysiological and behavioural methods, including phonetic training games, 
+  to understand how listeners learn to perceive and categorize speech sounds. 
+  I am currently completing my postdoctoral research fellowship at University College London,
+  investigating the role of input variability in second-language speech learning using 
+  wearable EEG devices, which simultaneously record EEG and speech data. See my code for EEG data analysis at <a href="https://github.com/BPericas" target="_blank" rel="noopener">@github</a>.
 lang: en-UK # default lang
 timezone: UK # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -17,17 +19,18 @@ mode: light # default theme "dark" | "light"
 author:
   name: Begoña Pericas Herrero # author name
   bio: >- # tell to the world
-     I'm a postdoctoral research fellow at the Department of Speech, 
-     Hearing and Phonetic Sciences at University College London. 
-     I'm interested in early speech and language learning, as well as 
-     in second language speech learning. In my research, I use a 
-     combination of EEG experiments and behavioural tasks, such as 
-     phonetic training games to study speech learning in infants, 
-     children and adults. See my code for EEG data analysis at 
-     <a href="https://github.com/BPericas" target="_blank" rel="noopener">@github</a>.
+     I am a neurocognitive speech and language researcher interested in how bilingual 
+     children develop phonetic and phonological knowledge across their two languages 
+     and how adults learn speech sounds in a second language. In my research, I use 
+     electrophysiological and behavioural methods, including phonetic training games, 
+     to understand how listeners learn to perceive and categorize speech sounds. 
+     I am currently completing my postdoctoral research fellowship at University College London,
+     investigating the role of input variability in second-language speech learning using 
+     wearable EEG devices, which simultaneously 
+     record EEG and speech data. See my code for EEG data analysis at <a href="https://github.com/BPericas" target="_blank" rel="noopener">@github</a>.
   username: username # general username
   github: BPericas # github username
-  linkedIn: Begoña Pericas Herrero # twitter username
+  linkedin: https://www.linkedin.com/in/begoniapericasherrero/?locale=en # LinkedIn profile URL
   email: begona.herrero.17@ucl.ac.uk # email adress
   researchgate: Begona-Pericas-Herrero # ResearchGate profile name (verify this matches your actual profile URL)
   avatar: /assets/img/avatar.jpg # change with your own avatar
