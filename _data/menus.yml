@@ -3,8 +3,8 @@
   external: false
 
 - title: blog
-#   url: /archive/
-#   external: false
+  url: /archive/
+  external: false
 
 - title: CV
   url: /cv/
